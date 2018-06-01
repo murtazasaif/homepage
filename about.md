@@ -4,43 +4,29 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<br>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hey there! I'm a graduate student in the <a href = "https://www.cs.cmu.edu">School of Computer Science</a> at Carnegie Mellon University. Here at Carnegie Mellon, I use statistics and machine learning algorithms to computationally solve complex biological problems. I am very passionate about algorithms and believe that if designed and implemented with prudence, they can change our world for the better.</p>
+
+<p>For my undergrad, I went to <a href = "http://www.vit.ac.in">Vellore Institute of Technology</a> in India, where I graduated with a Bachelor's of Technology in Computer Science & Bioinformatics. Prior to coming to Carnegie Mellon, I worked as a Software Engineer at <a href = "https://www.accenture.com/us-en/new-applied-now">Accenture</a> for two years.</p>
+
+<p>Currently, I'm looking for full-time opportunities in the areas of Machine Learning, Software Development and Data Analysis. If you think I would make a good potential fit for your company, or would like to collaborate or simply chat, please reach out to me at: <b><u>msaif@andrew.cmu.edu</u></b></p>
+
+<hr size = "20">
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Java</li>
+	<li>C/C++</li>
+	<li>JavaScript/NodeJS</li>
+	<li>HTML5/CSS/PHP</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Version Control - Git</li>
+	<li>MySQL</li>
+	<li>TensorFlow</li>
+	<li>Scikit-Learn</li>
+	<li>PyTorch</li>
+	<li>SAP - CRM/BW</li>
 </ul>
