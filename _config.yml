@@ -111,4 +111,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: "murtazasaif.github.io"
+    base_url: "https://murtazasaif.github.io"
