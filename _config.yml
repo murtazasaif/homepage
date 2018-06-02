@@ -16,13 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1IkuJ0FFa8Gq4Ood3WBXhefgrlP-R-GkW/view?usp=sharing
 
-url: https://murtazasaif.github.io
+url: https://murtazasaif.github.io/sample/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
-
-use_logo: true
-logo: assets/images/coffee_blk.jpg
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-120234118-1'
@@ -111,4 +108,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: "https://murtazasaif.github.io"
+    base_url: "https://.github.com"
